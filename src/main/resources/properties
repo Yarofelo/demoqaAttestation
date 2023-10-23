@@ -1,0 +1,5 @@
+user = Yarofelo
+password = Axapta123@
+url.LOGIN=https://demoqa.com/login
+url.PROFILE=https://demoqa.com/profile
+url.BOOKS=https://demoqa.com/books
